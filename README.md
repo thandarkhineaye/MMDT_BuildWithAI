@@ -21,9 +21,8 @@ This repository contains starter code, guided examples, and setup instructions f
 ### 2. Follow workshop instructions
 Navigate to the relevant folder during each session:
 
-- Beginner → `workshops/Gemini`
-- Intermediate → `workshops/Anitgravity`
-- Advanced → `workshops/InstaVibe`
+- Day1 → `workshops/Day1`
+- Day2 → `workshops/Day2`
 - Final project → `projects/`
 
 ### 3. Run the examples
